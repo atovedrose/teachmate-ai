@@ -1,0 +1,9 @@
+{
+  "name":"TeachMate AI",
+  "short_name":"TeachMate",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4f7fb",
+  "theme_color":"#173f7a",
+  "icons":[]
+}
